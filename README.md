@@ -12,14 +12,14 @@ The project aims to help individuals make informed dietary decisions by:
 
 ## Repository Contents
 - **dataset/**: Contains the raw and cleaned dataset used for the analysis.
-- **`final_analysis.ipynb`**: Jupyter Notebook with all the code, data processing, and visualizations.
-- **`1_page_summary.pdf`**: A concise summary of the key findings and insights.
+- **`final_project.ipynb`**: Jupyter Notebook with all the code, data processing, and visualizations.
+- **`project_summary.docx`**: A concise summary of the key findings and insights.
 - **`presentation_slides.pptx`**: Presentation slides summarizing the project and its outcomes.
 
 ## How to Use
 1. Review the dataset for raw nutritional data.
-2. Open `final_analysis.ipynb` in Jupyter to explore the full analysis and visualizations.
-3. Refer to `1_page_summary.pdf` for a quick overview of the project’s findings.
+2. Open `final_project.ipynb` in Jupyter to explore the full analysis and visualizations.
+3. Refer to `project_summary.docx` for a quick overview of the project’s findings.
 4. Use `presentation_slides.pptx` for sharing the results in meetings or presentations.
 
 ## Contact
